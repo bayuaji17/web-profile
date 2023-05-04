@@ -1,0 +1,33 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.navbar {
+    background-color: #c5bcde;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    background-color: aqua;
+    background-image: url(https://storage.googleapis.com/website-image-profile/background.jpg);
+    background-size: cover;
+}
+
+.jumbotron > img {
+    width: 300px;
+}
+#about {
+    margin-top: 20px;
+}
+footer {
+    background-color: #c5bcde;
+    margin-top: 30px;
+    padding-top: 15px;
+}
+.image-icon > .image-icon1 > a > img{
+    width: 100px;
+}
+.image-icon {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
